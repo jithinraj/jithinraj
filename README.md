@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+ I star & fork interesting repos as a tribute to the OSS projects & contributors.
 <!--
 **jithinraj/jithinraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
