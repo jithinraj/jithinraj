@@ -4,8 +4,8 @@
 
 
 - 🔭 I’m Jithin Raj
-- 🌋 Building at Volcano, a live streaming platform for real life content.
-- 🏢 I blog about coding & life: https://jithinraj.co
+- 🌋 Building Volcano, a live streaming platform with focus on audience and interactivity.
+- 🏢 My namesake website: https://jithinraj.co
 - 🦜 I’m on Twitter https://twitter.com/jithinraj
 - 🎥 I love movies and being part of it in ways I can: https://www.imdb.com/title/tt14389464/
 - 🔴 I'm learning about live streaming streaming & video tech
