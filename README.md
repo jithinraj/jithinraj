@@ -4,7 +4,6 @@
 
 
 - 🔭 I’m Jithin Raj
-- 🌋 Founder & Creator of Volcano Metaverse
 - 🏢 My namesake website: https://jithinraj.co
 - 🦜 I’m on Twitter at https://twitter.com/jithinraj
 - 🎥 I love movies and being part of it in ways I can: https://www.knownsense.me/
