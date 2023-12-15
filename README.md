@@ -4,5 +4,5 @@
 
 
 - 🔭 I’m Jithin Raj
-- 🟣 I’m on Twitter at https://twitter.com/jithinraj
+- 🟣 I’m on Farcaster at https://warpcast.com/jithinraj
 - 🦜 I’m on Twitter at https://twitter.com/jithinraj
